@@ -1,2 +1,2 @@
 # CUDA-NVIDIA
-Programando em paralelo com o poder do CUDA (Compute Unified Device Architecture) isto é uma plataforma de computação paralela desenvolvida pela NVIDIA.
+CUDA é uma plataforma de computação paralela e modelo de programação criado pela NVIDIA que permite aos desenvolvedores usarem o poder das GPUs para acelerar aplicações.
